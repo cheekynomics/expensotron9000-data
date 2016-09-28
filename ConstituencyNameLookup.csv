@@ -1,0 +1,643 @@
+,Const,ConstMatch
+0,Croydon Central BC,Croydon Central
+1,Dover CC,Dover
+2,Hove BC,Hove
+3,Hampstead and Kilburn BC,Hampstead and Kilburn
+4,"Ruislip, Northwood and Pinner BC","Ruislip, Northwood and Pinner"
+5,Newcastle upon Tyne North BC,Newcastle upon Tyne North
+6,North Shropshire CC,North Shropshire
+7,North East Hertfordshire CC,North East Hertfordshire
+8,Milton Keynes South BC,Milton Keynes South
+9,Putney BC,Putney
+10,Walsall South BC,Walsall South
+11,"Birmingham, Ladywood BC","Birmingham, Ladywood"
+12,Calder Valley CC,Calder Valley
+13,South Suffolk CC,South Suffolk
+14,Na h-Eileanan an Iar CC,Na h-Eileanan an Iar
+15,North West Cambridgeshire CC,Cambridge
+16,Glenrothes CC,Glenrothes
+17,North East Somerset CC,North East Somerset
+18,"Enfield, Southgate BC","Enfield, Southgate"
+19,Lichfield CC,Lichfield
+20,Pudsey BC,Pudsey
+21,Hexham CC,Hexham
+22,Welwyn Hatfield CC,Welwyn Hatfield
+23,"Sheffield, Hallam CC","Sheffield, Hallam"
+24,Inverclyde CC,Inverclyde
+25,Linlithgow and East Falkirk CC,Falkirk
+26,Beverley and Holderness CC,Beverley and Holderness
+27,Barrow and Furness CC,Barrow and Furness
+28,Sedgefield CC,Sedgefield
+29,Harrow East BC,Harrow East
+30,Bristol South BC,Bristol South
+31,Sheffield Central BC,Sheffield Central
+32,Ashfield CC,Ashfield
+33,Penistone and Stocksbridge CC,Penistone and Stocksbridge
+34,Paisley and Renfrewshire South CC,Paisley and Renfrewshire South
+35,Holborn and St Pancras BC,Holborn and St Pancras
+36,High Peak CC,High Peak
+37,Merthyr Tydfil and Rhymney CC,Merthyr Tydfil and Rhymney
+38,St Austell and Newquay CC,St Austell and Newquay
+39,Upper Bann,Upper Bann
+40,East Renfrewshire CC,East Renfrewshire
+41,South East Cornwall CC,South East Cornwall
+42,Winchester CC,Winchester
+43,Harrogate and Knaresborough CC,Harrogate and Knaresborough
+44,Harlow CC,Harlow
+45,Lewes CC,Lewes
+46,Westmorland and Lonsdale CC,Westmorland and Lonsdale
+47,Leigh CC,Leigh
+48,Darlington BC,Darlington
+49,Tatton CC,Tatton
+50,Basildon and Billericay BC,Basildon and Billericay
+51,Gordon CC,Gordon
+52,Grantham and Stamford CC,Grantham and Stamford
+53,Fylde CC,Fylde
+54,Bolton North East BC,Bolton North East
+55,Dudley North BC,Dudley North
+56,Wycombe CC,Wycombe
+57,Hertford and Stortford CC,Hertford and Stortford
+58,Walthamstow BC,Walthamstow
+59,Carmarthen East and Dinefwr CC,Carmarthen East and Dinefwr
+60,Blackburn BC,Blackburn
+61,Stretford and Urmston BC,Stretford and Urmston
+62,Aberdeen North BC,Aberdeen North
+63,Broxbourne BC,Broxbourne
+64,South West Devon CC,South West Devon
+65,Maidstone and The Weald CC,Maidstone and The Weald
+66,Reading East BC,Reading East
+67,Wimbledon BC,Wimbledon
+68,North Cornwall CC,North Cornwall
+69,Esher and Walton BC,Esher and Walton
+70,Boston and Skegness CC,Boston and Skegness
+71,York Outer CC,York Outer
+72,Stockton South BC,Stockton South
+73,Stoke-on-Trent Central BC,Stoke-on-Trent Central
+74,Morley and Outwood CC,Morley and Outwood
+75,Central Ayrshire CC,Central Ayrshire
+76,Middlesbrough BC,Middlesbrough
+77,Hemsworth CC,Hemsworth
+78,Wolverhampton North East BC,Wolverhampton North East
+79,Lanark and Hamilton East CC,Lanark and Hamilton East
+80,Runnymede and Weybridge CC,Runnymede and Weybridge
+81,Woking CC,Woking
+82,Denton and Reddish BC,Denton and Reddish
+83,North Devon CC,North Devon
+84,Kenilworth and Southam CC,Kenilworth and Southam
+85,Rhondda CC,Rhondda
+86,Nuneaton CC,Nuneaton
+87,"Plymouth, Sutton and Devonport BC","Plymouth, Sutton and Devonport"
+88,West Suffolk CC,West Suffolk
+89,Totnes CC,Totnes
+90,Eddisbury CC,Eddisbury
+91,Coventry North East BC,Coventry North East
+92,Arfon CC,Arfon
+93,Stourbridge BC,Stourbridge
+94,Rochdale CC,Rochdale
+95,Epping Forest CC,Epping Forest
+96,Rayleigh and Wickford CC,Rayleigh and Wickford
+97,Rutland and Melton CC,Rutland and Melton
+98,Foyle,Foyle
+99,Enfield North BC,Enfield North
+100,Truro and Falmouth CC,Truro and Falmouth
+101,Romford BC,Romford
+102,Bromsgrove CC,Bromsgrove
+103,Exeter BC,Exeter
+104,Bromley and Chislehurst BC,Bromley and Chislehurst
+105,East Worthing and Shoreham CC,East Worthing and Shoreham
+106,Rugby CC,Rugby
+107,Nottingham North BC,Nottingham North
+108,Wentworth and Dearne CC,Wentworth and Dearne
+109,East Lothian CC,East Lothian
+110,Chelsea and Fulham BC,Chelsea and Fulham
+111,Kingswood BC,Kingswood
+112,Great Yarmouth CC,Great Yarmouth
+113,Westminster North BC,Westminster North
+114,Scarborough and Whitby CC,Scarborough and Whitby
+115,Southend West BC,Southend West
+116,Oldham West and Royton BC,Oldham West and Royton
+117,North Warwickshire CC,North Warwickshire
+118,Thurrock BC,Thurrock
+119,Aberdeen South BC,Aberdeen South
+120,Havant BC,Havant
+121,Gower CC,Gower
+122,"Berwickshire, Roxburgh and Selkirk CC","Berwickshire, Roxburgh and Selkirk"
+123,Bexleyheath and Crayford BC,Bexleyheath and Crayford
+124,Warrington South BC,Warrington South
+125,Glasgow East BC,Glasgow East
+126,Elmet and Rothwell CC,Elmet and Rothwell
+127,Reigate BC,Reigate
+128,Dagenham and Rainham BC,Dagenham and Rainham
+129,Garston and Halewood BC,Garston and Halewood
+130,Mid Norfolk CC,Mid Norfolk
+131,Colchester BC,Colchester
+132,Kingston upon Hull West and Hessle BC,Kingston upon Hull West and Hessle
+133,Brentwood and Ongar CC,Brentwood and Ongar
+134,Congleton CC,Congleton
+135,Sleaford and North Hykeham CC,Sleaford and North Hykeham
+136,Livingston CC,Livingston
+137,Doncaster North CC,Doncaster North
+138,Redcar BC,Redcar
+139,Loughborough CC,Loughborough
+140,Henley CC,Henley
+141,Leeds East BC,Leeds East
+142,Hyndburn BC,Hyndburn
+143,"Southampton, Itchen BC","Southampton, Itchen"
+144,The Wrekin CC,The Wrekin
+145,New Forest East CC,New Forest East
+146,South East Cambridgeshire CC,Cambridge
+147,Oxford West and Abingdon CC,Oxford West and Abingdon
+148,Ellesmere Port and Neston CC,Ellesmere Port and Neston
+149,Hereford and South Herefordshire CC,Hereford and South Herefordshire
+150,Bishop Auckland CC,Bishop Auckland
+151,Brent Central BC,Brent Central
+152,Orpington BC,Orpington
+153,North East Fife CC,North East Fife
+154,South Antrim,South Antrim
+155,"Dumfriesshire, Clydesdale and Tweeddale CC","Dumfriesshire, Clydesdale and Tweeddale"
+156,Bridgwater and West Somerset CC,Bridgwater and West Somerset
+157,Bracknell CC,Bracknell
+158,West Bromwich West BC,West Bromwich West
+159,"Coatbridge, Chryston and Bellshill BC","Coatbridge, Chryston and Bellshill"
+160,Clwyd South CC,Clwyd South
+161,Kilmarnock and Loudoun CC,Kilmarnock and Loudoun
+162,North Down,North Down
+163,North Norfolk CC,North Norfolk
+164,"Plymouth, Moor View BC","Plymouth, Moor View"
+165,Vale of Clwyd CC,Vale of Clwyd
+166,Greenwich and Woolwich BC,Greenwich and Woolwich
+167,Edinburgh East BC,Edinburgh East
+168,Houghton and Sunderland South BC,Houghton and Sunderland South
+169,Bury North BC,Bury North
+170,Macclesfield CC,Macclesfield
+171,Cardiff West BC,Cardiff West
+172,Louth and Horncastle CC,Louth and Horncastle
+173,Strangford,Strangford
+174,Crewe and Nantwich CC,Crewe and Nantwich
+175,Chippenham CC,Chippenham
+176,Dewsbury CC,Dewsbury
+177,Camborne and Redruth CC,Camborne and Redruth
+178,"Cumbernauld, Kilsyth and Kirkintilloch East CC","Cumbernauld, Kilsyth and Kirkintilloch East"
+179,Beaconsfield CC,Beaconsfield
+180,Brigg and Goole CC,Brigg and Goole
+181,Leicester South BC,Leicester South
+182,Banbury CC,Banbury
+183,Worcester BC,Worcester
+184,Glasgow North East BC,Glasgow North
+185,Central Devon CC,Central Devon
+186,Hastings and Rye CC,Hastings and Rye
+187,Basingstoke BC,Basingstoke
+188,Bolton West CC,Bolton West
+189,Chipping Barnet BC,Chipping Barnet
+190,Moray CC,Moray
+191,East Surrey CC,East Surrey
+192,West Dunbartonshire CC,West Dunbartonshire
+193,Newport West CC,Newport West
+194,North East Bedfordshire CC,Bedford
+195,Maldon CC,Maldon
+196,Romsey and Southampton North CC,Romsey and Southampton North
+197,Old Bexley and Sidcup BC,Old Bexley and Sidcup
+198,Ilford North BC,Ilford North
+199,North West Hampshire CC,North West Hampshire
+200,Lagan Valley,Lagan Valley
+201,Sittingbourne and Sheppey CC,Sittingbourne and Sheppey
+202,Ipswich BC,Ipswich
+203,Bradford West BC,Bradford West
+204,"Lewisham, Deptford BC","Lewisham, Deptford"
+205,Gateshead BC,Gateshead
+206,Dumfries and Galloway CC,Dumfries and Galloway
+207,Thirsk and Malton CC,Thirsk and Malton
+208,North Somerset CC,North Somerset
+209,Gloucester BC,Gloucester
+210,North Swindon CC,North Swindon
+211,Norwich North BC,Norwich North
+212,North Herefordshire CC,North Herefordshire
+213,Dunfermline and West Fife CC,Dunfermline and West Fife
+214,Tottenham BC,Tottenham
+215,Portsmouth North BC,Portsmouth North
+216,Leeds West BC,Leeds West
+217,Sutton and Cheam BC,Sutton and Cheam
+218,Spelthorne BC,Spelthorne
+219,"Birmingham, Yardley BC","Birmingham, Yardley"
+220,Amber Valley CC,Amber Valley
+221,Rushcliffe CC,Rushcliffe
+222,Bury St Edmunds CC,Bury St Edmunds
+223,Filton and Bradley Stoke CC,Filton and Bradley Stoke
+224,Redditch CC,Redditch
+225,Luton North BC,Luton North
+226,South Cambridgeshire CC,Cambridge
+227,Charnwood CC,Charnwood
+228,Swansea East BC,Swansea East
+229,Haltemprice and Howden CC,Haltemprice and Howden
+230,Wolverhampton South West BC,Wolverhampton South West
+231,Saffron Walden CC,Saffron Walden
+232,Preston BC,Preston
+233,Cleethorpes CC,Cleethorpes
+234,South West Surrey CC,South West Surrey
+235,West Aberdeenshire and Kincardine CC,West Aberdeenshire and Kincardine
+236,East Antrim,East Antrim
+237,Chorley CC,Chorley
+238,"Normanton, Pontefract and Castleford CC","Normanton, Pontefract and Castleford"
+239,Sunderland Central BC,Sunderland Central
+240,Islwyn CC,Islwyn
+241,Falkirk CC,Falkirk
+242,Torbay BC,Torbay
+243,Horsham CC,Horsham
+244,Preseli Pembrokeshire CC,Preseli Pembrokeshire
+245,Warrington North BC,Warrington North
+246,"Brighton, Pavilion BC","Brighton, Pavilion"
+247,Tynemouth BC,Tynemouth
+248,Crawley BC,Crawley
+249,Kirkcaldy and Cowdenbeath CC,Kirkcaldy and Cowdenbeath
+250,Hazel Grove CC,Hazel Grove
+251,Mid Worcestershire CC,Mid Worcestershire
+252,Ealing Central and Acton BC,Ealing Central and Acton
+253,Bournemouth West BC,Bournemouth West
+254,Belfast South,Belfast South
+255,Portsmouth South BC,Portsmouth South
+256,Mid Dorset and North Poole CC,Mid Dorset and North Poole
+257,Hitchin and Harpenden CC,Hitchin and Harpenden
+258,East Devon CC,East Devon
+259,Rotherham BC,Rotherham
+260,Cities of London and Westminster BC,Cities of London and Westminster
+261,Chesterfield BC,Chesterfield
+262,Huntingdon CC,Huntingdon
+263,Meon Valley CC,Meon Valley
+264,Chelmsford BC,Chelmsford
+265,South Northamptonshire CC,South Northamptonshire
+266,Wakefield CC,Wakefield
+267,Newport East CC,Newport East
+268,Walsall North BC,Walsall North
+269,Gedling CC,Gedling
+270,"Birmingham, Selly Oak BC","Birmingham, Selly Oak"
+271,Beckenham BC,Beckenham
+272,Altrincham and Sale West BC,Altrincham and Sale West
+273,Ochil and South Perthshire CC,Ochil and South Perthshire
+274,Stevenage CC,Stevenage
+275,Barking BC,Barking
+276,Cheltenham BC,Cheltenham
+277,North Dorset CC,North Dorset
+278,Castle Point BC,Castle Point
+279,Bootle BC,Bootle
+280,Wolverhampton South East BC,Wolverhampton South East
+281,Blackpool South BC,Blackpool South
+282,City of Durham CC,City of Durham
+283,Blaenau Gwent CC,Blaenau Gwent
+284,Lewisham West and Penge BC,Lewisham West and Penge
+285,Nottingham East BC,Nottingham East
+286,Bridgend CC,Bridgend
+287,East Dunbartonshire CC,East Dunbartonshire
+288,Cynon Valley CC,Cynon Valley
+289,Aberavon CC,Aberavon
+290,Middlesbrough South and East Cleveland CC,Middlesbrough
+291,Bognor Regis and Littlehampton CC,Bognor Regis and Littlehampton
+292,Delyn CC,Delyn
+293,Tonbridge and Malling CC,Tonbridge and Malling
+294,Dundee East BC,Dundee East
+295,Ilford South BC,Ilford South
+296,East Yorkshire CC,East Yorkshire
+297,Montgomeryshire CC,Montgomeryshire
+298,Bolton South East BC,Bolton South East
+299,Vale of Glamorgan CC,Vale of Glamorgan
+300,Central Suffolk and North Ipswich CC,Central Suffolk and North Ipswich
+301,Northampton South BC,Northampton South
+302,South Staffordshire CC,South Staffordshire
+303,Vauxhall BC,Vauxhall
+304,Morecambe and Lunesdale CC,Morecambe and Lunesdale
+305,Leyton and Wanstead BC,Leyton and Wanstead
+306,Braintree CC,Braintree
+307,Hornsey and Wood Green BC,Hornsey and Wood Green
+308,Bristol North West BC,Bristol North West
+309,Christchurch CC,Christchurch
+310,Wyre and Preston North CC,Preston
+311,Surrey Heath CC,Surrey Heath
+312,Colne Valley CC,Colne Valley
+313,South Down,Arundel and South Downs
+314,Cheadle BC,Cheadle
+315,South West Bedfordshire CC,Bedford
+316,Witham CC,Witham
+317,Glasgow Central BC,Glasgow Central
+318,North East Hampshire CC,East Ham
+319,Croydon North BC,Croydon North
+320,Glasgow South West BC,Glasgow South
+321,Derby South BC,Derby South
+322,Berwick-upon-Tweed CC,Berwick-upon-Tweed
+323,Makerfield CC,Makerfield
+324,Warwick and Leamington BC,Warwick and Leamington
+325,Arundel and South Downs CC,Arundel and South Downs
+326,Sefton Central CC,Sefton Central
+327,Hackney North and Stoke Newington BC,Hackney North and Stoke Newington
+328,Newbury CC,Newbury
+329,North Antrim,North Antrim
+330,Bristol West BC,Bristol West
+331,Ashton-under-Lyne BC,Ashton-under-Lyne
+332,Stoke-on-Trent South BC,Stoke-on-Trent South
+333,Buckingham CC,Buckingham
+334,Mid Sussex CC,Mid Sussex
+335,Southport BC,Southport
+336,North West Norfolk CC,North West Norfolk
+337,Sheffield South East BC,Sheffield South East
+338,Hornchurch and Upminster BC,Hornchurch and Upminster
+339,Llanelli CC,Llanelli
+340,Bury South BC,Bury South
+341,South Swindon CC,South Swindon
+342,Edinburgh South BC,Edinburgh South
+343,Hammersmith BC,Hammersmith
+344,Heywood and Middleton CC,Heywood and Middleton
+345,Knowsley BC,Knowsley
+346,"Birmingham, Hodge Hill BC","Birmingham, Hodge Hill"
+347,Orkney and Shetland CC,Orkney and Shetland
+348,Stratford-on-Avon CC,Stratford-on-Avon
+349,Eastbourne BC,Eastbourne
+350,York Central BC,York Central
+351,North Thanet CC,North Thanet
+352,Leeds North East BC,Leeds North East
+353,Bermondsey and Old Southwark BC,Bermondsey and Old Southwark
+354,Midlothian CC,Midlothian
+355,Glasgow North BC,Glasgow North
+356,Glasgow North West BC,Glasgow North
+357,Clwyd West CC,Clwyd West
+358,"Ross, Skye and Lochaber CC","Ross, Skye and Lochaber"
+359,Shrewsbury and Atcham CC,Shrewsbury and Atcham
+360,Rossendale and Darwen BC,Rossendale and Darwen
+361,Wantage CC,Wantage
+362,Canterbury CC,Canterbury
+363,Penrith and The Border CC,Penrith and The Border
+364,Battersea BC,Battersea
+365,Shipley CC,Shipley
+366,North West Durham CC,North West Durham
+367,Wansbeck CC,Wansbeck
+368,Weaver Vale CC,Weaver Vale
+369,Huddersfield BC,Huddersfield
+370,Corby CC,Corby
+371,Chesham and Amersham CC,Chesham and Amersham
+372,Poplar and Limehouse BC,Poplar and Limehouse
+373,North Wiltshire CC,North Wiltshire
+374,Rochester and Strood CC,Rochester and Strood
+375,Stockton North BC,Stockton North
+376,Fareham CC,Fareham
+377,Hartlepool BC,Hartlepool
+378,Sherwood CC,Sherwood
+379,Halifax BC,Halifax
+380,Telford BC,Telford
+381,North West Leicestershire CC,North West Leicestershire
+382,Chingford and Woodford Green BC,Chingford and Woodford Green
+383,Great Grimsby BC,Great Grimsby
+384,Jarrow BC,Jarrow
+385,Newton Abbot CC,Newton Abbot
+386,"Liverpool, Walton BC","Liverpool, Walton"
+387,Sevenoaks CC,Sevenoaks
+388,Worthing West BC,Worthing West
+389,Don Valley CC,Don Valley
+390,South Derbyshire CC,South Derbyshire
+391,Edmonton BC,Edmonton
+392,Watford BC,Watford
+393,Meriden CC,Meriden
+394,Harwich and North Essex CC,Harwich and North Essex
+395,Neath CC,Neath
+396,Rutherglen and Hamilton West BC,Rutherglen and Hamilton West
+397,South Leicestershire CC,South Leicestershire
+398,Swansea West BC,Swansea West
+399,North Durham CC,North Durham
+400,Warley BC,Warley
+401,Tewkesbury CC,Tewkesbury
+402,Copeland CC,Copeland
+403,Edinburgh South West BC,Edinburgh South
+404,Leicester East BC,Leicester East
+405,Airdrie and Shotts CC,Airdrie and Shotts
+406,Aberconwy CC,Aberconwy
+407,South Shields BC,South Shields
+408,Worsley and Eccles South CC,Worsley and Eccles South
+409,Pendle BC,Pendle
+410,Newcastle upon Tyne Central BC,Newcastle upon Tyne Central
+411,West Worcestershire CC,West Worcestershire
+412,Alyn and Deeside CC,Alyn and Deeside
+413,Angus CC,Angus
+414,Eltham BC,Eltham
+415,"Southampton, Test BC","Southampton, Test"
+416,Pontypridd CC,Pontypridd
+417,Lancaster and Fleetwood CC,Lancaster and Fleetwood
+418,Kingston upon Hull North BC,Kingston upon Hull North
+419,Bassetlaw CC,Bassetlaw
+420,North East Derbyshire CC,North East Derbyshire
+421,Newcastle upon Tyne East BC,Newcastle upon Tyne East
+422,Camberwell and Peckham BC,Camberwell and Peckham
+423,Stalybridge and Hyde CC,Stalybridge and Hyde
+424,Carlisle CC,Carlisle
+425,Newcastle-under-Lyme BC,Newcastle-under-Lyme
+426,Oxford East BC,Oxford East
+427,Halesowen and Rowley Regis BC,Halesowen and Rowley Regis
+428,Feltham and Heston BC,Feltham and Heston
+429,Lincoln BC,Lincoln
+430,Stroud CC,Stroud
+431,Carshalton and Wallington BC,Carshalton and Wallington
+432,Mansfield CC,Mansfield
+433,South West Wiltshire CC,South West Wiltshire
+434,Cardiff Central BC,Cardiff Central
+435,Daventry CC,Daventry
+436,West Lancashire CC,West Lancashire
+437,Stirling CC,Stirling
+438,"Birmingham, Edgbaston BC","Birmingham, Edgbaston"
+439,St Ives CC,St Ives
+440,Gainsborough CC,Gainsborough
+441,South Holland and The Deepings CC,South Holland and The Deepings
+442,Ynys M\xc3\xb4n CC,Ynys Môn
+443,Bedford BC,Bedford
+444,Paisley and Renfrewshire North CC,Paisley and Renfrewshire North
+445,Ceredigion CC,Ceredigion
+446,Leeds Central BC,Leeds Central
+447,Blackley and Broughton BC,Blackley and Broughton
+448,Barnsley East CC,Barnsley East
+449,Selby and Ainsty CC,Selby and Ainsty
+450,Brecon and Radnorshire CC,Brecon and Radnorshire
+451,Staffordshire Moorlands CC,Stafford
+452,St Albans CC,St Albans
+453,Glasgow South BC,Glasgow South
+454,"Brighton, Kemptown BC","Brighton, Kemptown"
+455,Lewisham East BC,Lewisham East
+456,Norwich South BC,Norwich South
+457,Hackney South and Shoreditch BC,Hackney South and Shoreditch
+458,North Tyneside BC,North Tyneside
+459,North Ayrshire and Arran CC,North Ayrshire and Arran
+460,Peterborough BC,Peterborough
+461,Washington and Sunderland West BC,Washington and Sunderland West
+462,Fermanagh and South Tyrone,Fermanagh and South Tyrone
+463,Solihull BC,Solihull
+464,"East Kilbride, Strathaven and Lesmahagow CC","East Kilbride, Strathaven and Lesmahagow"
+465,Bradford South BC,Bradford South
+466,Wrexham CC,Wrexham
+467,"Birmingham, Perry Barr BC","Birmingham, Perry Barr"
+468,Carmarthen West and South Pembrokeshire CC,Carmarthen West and South Pembrokeshire
+469,Coventry North West BC,Coventry North West
+470,Bath BC,Bath
+471,St Helens North BC,St Helens North
+472,The Cotswolds CC,The Cotswolds
+473,Yeovil CC,Yeovil
+474,South Dorset CC,South Dorset
+475,Islington North BC,Islington North
+476,Twickenham BC,Twickenham
+477,Burnley BC,Burnley
+478,Derbyshire Dales CC,Derbyshire Dales
+479,Stockport BC,Stockport
+480,Workington CC,Workington
+481,South Basildon and East Thurrock BC,South Basildon and East Thurrock
+482,Blackpool North and Cleveleys BC,Blackpool North and Cleveleys
+483,West Ham BC,West Ham
+484,Halton CC,Halton
+485,South Thanet CC,South Thanet
+486,Wokingham CC,Woking
+487,West Bromwich East BC,West Bromwich East
+488,Chatham and Aylesford CC,Chatham and Aylesford
+489,East Ham BC,East Ham
+490,Cardiff South and Penarth BC,Cardiff South and Penarth
+491,Mid Derbyshire CC,Mid Derbyshire
+492,Mid Bedfordshire CC,Bedford
+493,Kettering CC,Kettering
+494,"Liverpool, Wavertree BC","Liverpool, Wavertree"
+495,Keighley CC,Keighley
+496,"Inverness, Nairn, Badenoch and Strathspey CC","Inverness, Nairn, Badenoch and Strathspey"
+497,Wallasey BC,Wallasey
+498,Folkestone and Hythe CC,Folkestone and Hythe
+499,Uxbridge and South Ruislip BC,Uxbridge and South Ruislip
+500,"Manchester, Withington BC","Manchester, Withington"
+501,"Liverpool, Riverside BC","Liverpool, Riverside"
+502,Croydon South BC,Croydon South
+503,Somerton and Frome CC,Somerton and Frome
+504,Slough BC,Slough
+505,Tiverton and Honiton CC,Tiverton and Honiton
+506,Milton Keynes North CC,Milton Keynes North
+507,Luton South BC,Luton South
+508,Kensington BC,Kensington
+509,Isle of Wight CC,Isle of Wight
+510,Wyre Forest CC,Wyre Forest
+511,Devizes CC,Devizes
+512,Streatham BC,Streatham
+513,New Forest West CC,New Forest West
+514,Torfaen CC,Torfaen
+515,Gosport BC,Gosport
+516,Tooting BC,Tooting
+517,Perth and North Perthshire CC,Perth and North Perthshire
+518,Mole Valley CC,Mole Valley
+519,Taunton Deane CC,Taunton Deane
+520,Banff and Buchan CC,Banff and Buchan
+521,Leeds North West BC,Leeds North West
+522,Salford and Eccles BC,Salford and Eccles
+523,Wythenshawe and Sale East BC,Wythenshawe and Sale East
+524,Broadland CC,Broadland
+525,South Ribble CC,South Ribble
+526,Bournemouth East BC,Bournemouth East
+527,Bexhill and Battle CC,Bexhill and Battle
+528,"Ayr, Carrick and Cumnock CC","Ayr, Carrick and Cumnock"
+529,Bosworth CC,Bosworth
+530,South West Norfolk CC,South West Norfolk
+531,Brent North BC,Brent North
+532,Dwyfor Meirionnydd CC,Dwyfor Meirionnydd
+533,Thornbury and Yate CC,Thornbury and Yate
+534,Easington CC,Easington
+535,"Birmingham, Northfield BC","Birmingham, Northfield"
+536,Wells CC,Wells
+537,Ogmore CC,Ogmore
+538,Doncaster Central BC,Doncaster Central
+539,Mid Ulster,Mid Ulster/Mid Ulster
+540,North East Cambridgeshire CC,Cambridge
+541,Stone CC,Stone
+542,Manchester Central BC,Manchester Central
+543,Hayes and Harlington BC,Hayes and Harlington
+544,Caerphilly CC,Caerphilly
+545,Aldershot BC,Aldershot
+546,East Londonderry,East Londonderry
+547,"Ealing, Southall BC","Ealing, Southall"
+548,Bolsover CC,Bolsover
+549,Witney CC,Witney
+550,"Manchester, Gorton BC","Manchester, Gorton"
+551,Harrow West BC,Harrow West
+552,Wellingborough CC,Wellingborough
+553,Leicester West BC,Leicester West
+554,Wealden CC,Wealden
+555,Islington South and Finsbury BC,Islington South and Finsbury
+556,Faversham and Mid Kent CC,Faversham and Mid Kent
+557,Monmouth CC,Monmouth
+558,Suffolk Coastal CC,Suffolk Coastal
+559,Kingston and Surbiton BC,Kingston and Surbiton
+560,Birkenhead BC,Birkenhead
+561,Belfast North,Belfast North
+562,Dundee West BC,Dundee West
+563,Newark CC,Newark
+564,Tunbridge Wells CC,Tunbridge Wells
+565,Bristol East BC,Bristol East
+566,Aldridge-Brownhills BC,Aldridge-Brownhills
+567,Aylesbury CC,Aylesbury
+568,Broxtowe CC,Broxtowe
+569,Edinburgh West BC,Edinburgh West
+570,Oldham East and Saddleworth CC,Oldham East and Saddleworth
+571,Scunthorpe CC,Scunthorpe
+572,Clacton CC,Clacton
+573,Derby North BC,Derby North
+574,Hendon BC,Hendon
+575,Burton CC,Burton
+576,Blaydon BC,Blaydon
+577,Bethnal Green and Bow BC,Bethnal Green and Bow
+578,Dartford CC,Dartford
+579,Eastleigh BC,Eastleigh
+580,Wirral West CC,Wirral West
+581,Poole BC,Poole
+582,St Helens South and Whiston BC,St Helens South and Whiston
+583,Ludlow CC,Ludlow
+584,East Hampshire CC,East Ham
+585,Forest of Dean CC,Forest of Dean
+586,Coventry South BC,Coventry South
+587,Wirral South CC,Wirral South
+588,Dulwich and West Norwood BC,Dulwich and West Norwood
+589,Gillingham and Rainham BC,Gillingham and Rainham
+590,Finchley and Golders Green BC,Finchley and Golders Green
+591,Batley and Spen BC,Batley and Spen
+592,Blyth Valley BC,Blyth Valley
+593,Cannock Chase CC,Cannock Chase
+594,South Norfolk CC,South Norfolk
+595,Torridge and West Devon CC,Torridge and West Devon
+596,Argyll and Bute CC,Argyll and Bute
+597,Gravesham CC,Gravesham
+598,"Sheffield, Brightside and Hillsborough BC","Sheffield, Brightside and Hillsborough"
+599,Ealing North BC,Ealing North
+600,Erewash CC,Erewash
+601,Epsom and Ewell BC,Epsom and Ewell
+602,Belfast East,Belfast East
+603,Harborough CC,Harborough
+604,Cambridge BC,Cambridge
+605,South West Hertfordshire CC,South West Hertfordshire
+606,Bradford East BC,Bradford East
+607,Kingston upon Hull East BC,Kingston upon Hull East
+608,West Dorset CC,West Dorset
+609,Edinburgh North and Leith BC,Edinburgh North and Leith
+610,Skipton and Ripon CC,Skipton and Ripon
+611,Weston-Super-Mare CC,Weston-Super-Mare
+612,Barnsley Central BC,Barnsley Central
+613,Wigan CC,Wigan
+614,"Sheffield, Heeley BC","Sheffield, Heeley"
+615,Rochford and Southend East CC,Rochford and Southend East
+616,Sutton Coldfield BC,Sutton Coldfield
+617,Waveney CC,Waveney
+618,"Liverpool, West Derby BC","Liverpool, West Derby"
+619,"Birmingham, Erdington BC","Birmingham, Erdington"
+620,Salisbury CC,Salisbury
+621,Chichester CC,Chichester
+622,Guildford CC,Guildford
+623,Reading West CC,Reading West
+624,"Caithness, Sutherland and Easter Ross CC","Caithness, Sutherland and Easter Ross"
+625,Brentford and Isleworth BC,Brentford and Isleworth
+626,Mitcham and Morden BC,Mitcham and Morden
+627,Rother Valley CC,Rother Valley
+628,Stoke-on-Trent North BC,Stoke-on-Trent North
+629,Motherwell and Wishaw BC,Motherwell and Wishaw
+630,Northampton North BC,Northampton North
+631,City of Chester CC,City of Chester
+632,Erith and Thamesmead BC,Erith and Thamesmead
+633,Ribble Valley CC,Ribble Valley
+634,Ashford CC,Ashford
+635,Dudley South BC,Dudley South
+636,Nottingham South BC,Nottingham South
+637,Cardiff North BC,Cardiff North
+638,"Birmingham, Hall Green BC","Birmingham, Hall Green"
+639,Hertsmere CC,Hertsmere
+640,Tamworth CC,Tamworth
+641,Stafford CC,Stafford
